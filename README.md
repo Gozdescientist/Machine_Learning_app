@@ -6,7 +6,7 @@
   
   
   #The application was developed with Python using the Pyqt5 library
-and interface is designed with the Qt Designer application.
+and interface is designed with the Qt Designer application. Application main page is main_page.py file.
 
 
   
