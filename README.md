@@ -5,7 +5,7 @@
   The resource planning for the future periods and optimum estimates closest to the correct result, it will achieve maximum profit with minimum budget and expenditure. The fact that experiments and examinations can be carried out faster ensures that R & D can be carried out much faster and more effectively in many sectors and provides higher quality products. It plays an important role in product market analysis, determination of consumer behavior, determining the factors that determine efficiency and quality in production, determining the best sales, marketing, and production methods for companies, and it plays a crucial role in the sustainability of the processes and enables them to be managed with predictable outcomes.
   
   
-  #The application was developed with Python using the Pyqt5 library.
+  #The application was developed with Python using the Pyqt5 library
 and interface is designed with the Qt Designer application.
 
 
